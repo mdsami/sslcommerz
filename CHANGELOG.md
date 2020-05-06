@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 06 May 2020.
 
-* TODO: Describe initial release.
+
+- initial commit   v0.0.1
